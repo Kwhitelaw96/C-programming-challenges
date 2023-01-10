@@ -13,4 +13,7 @@ How many on/off options are there for n amount of switches
 Word Count:
 Count how many words (MAX 255 CHARACTERS)
 =========================================================================================================================================================================
-4 - Challengs so far.
+Toy Car Workshop:
+Determing how many toy cars can be made (4 wheels, 1 car body, 2 figures)
+=========================================================================================================================================================================
+5 - Challengs so far.
