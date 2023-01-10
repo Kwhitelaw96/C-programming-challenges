@@ -14,6 +14,6 @@ Word Count:
 Count how many words (MAX 255 CHARACTERS)
 =========================================================================================================================================================================
 Toy Car Workshop:
-Determing how many toy cars can be made (4 wheels, 1 car body, 2 figures)
+Determine how many toy cars can be made (4 wheels, 1 car body, 2 figures)
 =========================================================================================================================================================================
 5 - Challengs so far.
