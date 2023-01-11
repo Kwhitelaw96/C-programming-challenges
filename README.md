@@ -20,4 +20,4 @@ Word Builder:
 Take an array of chars and arrange them to be a word given an array of int for order.
 EX: {'g','e','o'},{1,0,2}-> 'ego'
 =========================================================================================================================================================================
-5 - Challengs so far.
+6 - Challengs so far.
